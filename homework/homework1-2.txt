@@ -1,0 +1,36 @@
+student@R205-PC-02 MINGW64 ~
+$ cd onedrive
+
+student@R205-PC-02 MINGW64 ~/onedrive
+$ ls
+'Deborah Stinson Office 2016 Files'/  'Personal Vault.lnk'*
+ Desktop/                              Pictures/
+ Documents/                            desktop.ini
+'Getting started with OneDrive.pdf'
+
+student@R205-PC-02 MINGW64 ~/onedrive
+$ cd desktop
+
+student@R205-PC-02 MINGW64 ~/onedrive/desktop
+$ cd summer2021-webdesign-irfan
+
+student@R205-PC-02 MINGW64 ~/onedrive/desktop/summer2021-webdesign-irfan
+$ mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+
+student@R205-PC-02 MINGW64 ~/onedrive/desktop/summer2021-webdesign-irfan
+$ cd mkdir
+bash: cd: mkdir: No such file or directory
+
+student@R205-PC-02 MINGW64 ~/onedrive/desktop/summer2021-webdesign-irfan
+$ mkdir homework
+
+student@R205-PC-02 MINGW64 ~/onedrive/desktop/summer2021-webdesign-irfan
+$ cd homework
+
+student@R205-PC-02 MINGW64 ~/onedrive/desktop/summer2021-webdesign-irfan/homework
+$ touch homework1-2.txt
+
+student@R205-PC-02 MINGW64 ~/onedrive/desktop/summer2021-webdesign-irfan/homework
+$
