@@ -1,21 +1,21 @@
-1, busart.jpg (irfan)
-2, chai.jpg (Irfan)
-3, fishstall.jpg (Irfan)
-4, peshawarculture.jpg (Irfan)
-5, greentea.jpg (Irfan)
-6, vintagedoor.jpg (Irfan)
-7, vegstall.jpg (Irfan)
+1. busart.jpg (irfan)
+2. chai.jpg (Irfan)
+3. fishstall.jpg (Irfan)
+4. peshawarculture.jpg (Irfan)
+5. greentea.jpg (Irfan)
+6. vintagedoor.jpg (Irfan)
+7. vegstall.jpg (Irfan)
 
-8, cameraparts.jpg (Alex Andrews) free to use.
+8. cameraparts.jpg (Alex Andrews) free to use.
 https://www.pexels.com/photo/selective-focus-photography-of-dslr-camera-parts-821749/
 
-9, camera.jpg (Alex Andrews) free to use.
+9. camera.jpg (Alex Andrews) free to use.
 https://www.pexels.com/photo/assorted-black-and-gray-cameras-1983038/
 
-10, lence.jpg (Mengliu Di)Free to use.
+10. lence.jpg (Mengliu Di)Free to use.
 https://www.pexels.com/photo/different-kinds-of-camera-lens-3679525/
 
-11, phone.jpg (Los Muertos Crew)free to use.
+11. phone.jpg (Los Muertos Crew)free to use.
 https://www.pexels.com/photo/close-up-view-of-a-person-taking-photos-of-delicious-food-8448176/
 
-12, islamabadhills.jpg (Irfan)
+12. islamabadhills.jpg (Irfan)
