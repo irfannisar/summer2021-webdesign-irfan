@@ -11,18 +11,63 @@
 </head>
 <body>
     
-    <form>
+    <form id="signup">
+        
         <label for="fname">First Name:</label>
         <input type="text" name="fname" id="fname"/>
-        <input type="button" value="Press Me"/>
-        <p>add to Mailing list</p>
-        <label for="">yes</label>
-        <input type="radio" name="mailinglist"id="mailinglist1" value="yes"/>
-        <input type="radio" name="mailinglist"id="mailinglist2" value="no"/>
-        <label for="">no</label>
+        <input type="button" value="Press Me" id="mybutton"/>
+        <p>add to Mailing list?</p>
+        <label for="mailinglist1">yes</label>
+        <input type="radio" name="mailinglist"id="mailinglist1" value="yes" checked/>
+        <label for="mailinglist2">no</label>
+        <input type="radio" name="mailinglist"id="mailinglist2" value="no" checked/>
+        <br/>
+        <label for="eula1">check to agree to EULA</label>
         <input type="checkbox" name="eula" id="eula" value="yes"/>
+        <br/>
         <input type="reset" />
         <input type="submit" />
     </form>
+
+    <p id="output"></p>
+    <script>
+
+         
+
+            var myFunction = function (){
+
+            
+            console.log("Hello");
+        }
+
+        setTimeout( myFunction, 3000 );
+
+        setTimeout(function () {
+            console.log("goodbye!");
+        }, 4000);
+
+        var myButton = document.getElementById("mybutton");
+
+        myButton.addEventListener("click",function (){
+            
+        var myForm = document.getElementById("signup");
+
+        var myTextBox = myForm.elements["fname"];
+
+        var userInput = myTextBox.value;
+
+       
+
+        userInput = userInput + "!!!!!";
+          
+        var paragraph = document.getElementById("output");
+
+        paragraph.innerHTML = userInput;
+
+        });
+
+        
+
+    </script>
 </body>
 </html>
