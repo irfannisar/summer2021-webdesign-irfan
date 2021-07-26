@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intro to JQuery</title>
+
+    <script src="jquery-3.6.0.min.js"></script>
+
+    <style>
+        h1 {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <button id="darkmode">darkmode</button>
+    <button id="lightmode">lightmode</button>
+
+    <h1>My Webpage</h1>
+    <p>m</p>
+    
+
+    <script>
+        Math.random(); // -9~; never reaches 1.
+
+        for (var i = 0; i < 100; i++) {
+            var myNumber = Math.floor((Math.random) * 10 + 1);
+
+            if myNumber > 10) {
+                console.log(myNumber);
+            }
+            console.log( Math.random() );
+        }
+
+        //Math.random() * 256;
+
+        //Math.floor(10.9);
+        //Math.ceil(10.1);
+        //.round(10.5);
+
+        //Math.random() * 10;
+
+        //(Math.random() * 10) + 1;
+
+        //Math.floor((Math.random() * 10) + 1);
+
+        //Math.ceil((Math.random() * 9));
+
+        // $(document).ready(function () {});
+
+        $(function () {
+
+            $("#lighmode").click(function () {
+                $("body").css("background-color", "white");
+                $("body").css("color", "black");
+
+            });
+
+            $("#darkmode").click(function (){
+                console.log("Clicked!!");
+
+                $("body").css("background-color", "black");
+                $("body").css("color", "white");
+            });
+
+
+            var myHeadings = $("h1");
+
+            myHeadings.css("background-color", "rgb(255,0,0");
+            myHeadings.css("color", "rgb(0,255,0");
+
+            myHeadings.css({
+                "background-color" : "rgb(255,0,0)",
+                "color": "rgb(255,0,0)",
+                "font-family": "Arial",
+                "font-size": "48px"
+            });
+
+            //$("h1");
+
+            //$(".myclass");
+
+            //$("#myId");
+
+            //$("ul li");
+
+
+        });
+
+
+    </script>
+</body>
+</html>
