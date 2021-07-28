@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Move the Circle</title>
+
+    <style>
+        #circle {
+            background-color: green;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+
+        }
+        </style>
+
+        <script src="jquery-3.6.0.min.js">
+            
+            $(function () {
+
+            
+            $(document).keypress(function (event) {
+               
+
+                if (event.which == 97) {
+
+                    var existingMargin = $("#circle").css("margin-left");
+
+                    existingMargin = perseInt(existingMargin);
+
+                    existingMargin = existingMargin - 50;
+
+
+                    $("#circle").css("margin-left", existingMargin + "px");
+                } else if (event.which == 100) {
+                    var existingMargin = $("#circle").css("margin-right");
+
+                    existingMargin = perseInt(existingMargin);
+
+                    existingMargin = existingMargin + 50;
+                    $("#circle").css("margin-left", existingMargin + "px");
+                } else if (event.which == 119) {
+                    var existingMargin = $("#circle").css("margin-top");
+
+                    existingMargin = perseInt(existingMargin);
+
+                    existingMargin = existingMargin - 50;
+
+
+                    $("#circle").css("margin-left", existingMargin + "px");
+
+
+                } else if (event.which == 115) {
+                    var existingMargin = $("#circle").css("margin-top");
+
+                    existingMargin = perseInt(existingMargin);
+
+                    existingMargin = existingMargin + 50;
+
+
+                    $("#circle").css("margin-left", existingMargin + "px");
+
+                }
+
+
+                }
+            });
+        });
+        </script>
+</head>
+<body>
+    
+    <div id="circle"></div>
+    
+
+</body>
+</html>
