@@ -1,0 +1,80 @@
+Notes for simple portfolio examples:
+3 like sentences
+3 dislike sentences
+
+
+Images: my portrait on the Home page and several icons:
+
+Font-family: 
+
+Font sizes: 
+H1  22px
+H2  46px
+H3  60px
+P   64px
+
+                                                   The about me page
+
+Suymmary
+
+•	Troubleshoot, analyze, diagnose and resolve hardware and software issues online and in computer lab environments – PC/Mac operating systems & MS software.
+•	Documentation of network connections and peripherals and all support activities.
+•	Knowledge of computerized academic assessment tools and to provide instructor/ student IT support.
+•	Proficient in various software programs including business and academic platforms.
+•	Multilingual – native language fluency in Pashto and Urdu, fluent in Hindi, Punjabi and Hindko, basic Farsi language skills, and effective communication in written and spoken English.
+•	Able to work independently and as a team member – well-organized, thorough, adaptable to fast-paced work environments – manage and prioritize multiple projects adhering to deadlines.
+•	California Class C driver’s license with reliable, insured transportation and clean DMV record.
+
+
+Related skills
+
+
+-	Set-up of computer workstations including servers, network and operating systems installation, configuration and maintenance.
+-	Install and set-up hardware, software, peripherals and networks onsite and in remote locations. 
+-	Monitor and upgrade system security and performance.
+-	Perform technical support – resolve software and hardware issues and provide user support.
+-	Conduct internet research including online resource searches.
+-	Provide orientations for staff, visitors and students.
+-	Assist students with instruction in classrooms and computer labs.
+-	Consult with instructors to support student learning objectives.
+-	Maintain clean and stocked computer workstations – observe COVID-19 hygiene protocols.
+-	Order, receive and inventory supplies and equipment.
+
+
+                                                     The contact page
+
+
+
+	
+IRFAN  NISAR
+mianirfannisar@gmail.com
+(209) 326-3653
+
+
+
+
+
+
+                                                The project page
+
+My hobby page : file:///C:/Users/student/OneDrive/Desktop/summer2021-webdesign-irfan/projects/hobby.html
+
+Portfolio page :
+
+
+EMPLOYMENT  EXPERIENCE
+
+Instructional Assistant/IT Support, Berkeley Adult School, Berkeley, CA  (2/20 – present)
+	Rideshare Driver, Uber & Lyft, Berkeley/Bay Area, CA  (11/17 – 8/19)
+	Cashier/Customer Service, Star Chevron, Walnut Creek, CA  (1/17 – 11/17)
+	Cashier/Customer Service, Chevron Service, Thornton, CA  (1/16 – 1/17)
+
+
+EDUCATION
+
+	Associate of Science Degree in Computer Science, Information Technology & Cyber 
+	Security in Progress, Peralta Colleges, Berkeley & Oakland, CA.  Completing General 
+	Education and Lower Division requirements for transfer to BS program.
+
+
+
