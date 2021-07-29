@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+#container {
+    width: 900px;
+    border: 1px solid blue ;
+    margin-left: auto;
+
+
+}
+header{
+    overflow: auto;
+    background-color: rgb(238, 234, 238);
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px ;
+    
+}
+
+}
+header h1 {
+    font-size: 20px;
+    text-align: center;
+    font-size: 72px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+nav ul {
+    
+    text-align: right;
+}
+
+nav ul li {
+    
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+
+
+}
+nav ul li a:link {
+    color: rgb(150, 150, 168);
+}
+nav ul li a:visited {
+    color: gray;
+}
+nav ul li a:hover {
+    font-size: 48px;
+}
+nav ul li a:active {
+    color: goldenrod;
+}
+
+#main {
+   
+    background-color: rgb(243, 233, 233);
+    overflow: auto;
+    padding: 40px;
+}
+footer {
+    overflow: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    border-bottom-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+}
