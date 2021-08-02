@@ -5,7 +5,14 @@ $(document).ready(function() {
 
         loanAmount = parseFloat(loanAmount);
         apr = parseFloat(apr);
+        
+        var error = "none";
 
+        if (isNaN(loanAmount)) {
+            error = "loan";
+        } else if (isNaN(apr)) {
+            error = "apr";
+        }
 
         var interestprice = loanAmount * ((apr / 100) / 12);
 
@@ -13,7 +20,14 @@ $(document).ready(function() {
 
         var resultText = "You will owe an extra $" + interestprice + "after 1 month.<br /> "(montheley compounding intresest)";
 
-        $("#result-value").html(resultText);
+        if (error == "none"){
+
+        
+
+        $("#result-value").html(resultText); 
+
+        } else if (error == "loan") {
         console.log(interestprice);
+    }
     });
 });
